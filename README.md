@@ -113,4 +113,4 @@ For quick access, bind `launch.sh` to a keyboard shortcut via your desktop envir
 
 ## License
 
-MIT
+Apache 2.0
